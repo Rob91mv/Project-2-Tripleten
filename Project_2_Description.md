@@ -1,6 +1,6 @@
 # Music Preferences in Springfield and Shelbyville.
 
-![](https://chromewebstore.google.com/detail/yandex-music-control/bhcfibiihpkamomgolcmafcblbaonlka)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tuneskit.com%2Frecord-audio%2Frecord-yandex-music.html&psig=AOvVaw3xdkGIZ70uAmYj_IsD3b7j&ust=1747908438123000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDAm8CotI0DFQAAAAAdAAAAABAd)
 
 ## Project Overview:
 

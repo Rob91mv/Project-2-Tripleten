@@ -2,7 +2,7 @@
 Data Scientist/Analyst project developments
 
 # Music Preferences in Springfield and Shelbyville.
-![](https://support.musicgateway.com/wp-content/uploads/2023/06/yandex-music.jpg)
+![]([https://support.musicgateway.com/wp-content/uploads/2023/06/yandex-music.jpg](https://chromewebstore.google.com/detail/yandex-music-control/bhcfibiihpkamomgolcmafcblbaonlka))
 ## Project Overview:
 
 This project aims to analyze music preferences, extracted from Yandex.Music, among users in two different cities: Springfield and Shelbyville. Using real online music streaming data, several hypotheses will be tested to compare listening behaviors across both locations.

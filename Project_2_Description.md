@@ -1,6 +1,6 @@
 # Music Preferences in Springfield and Shelbyville.
 
-![]([https://support.musicgateway.com/wp-content/uploads/2023/06/yandex-music.jpg](https://chromewebstore.google.com/detail/yandex-music-control/bhcfibiihpkamomgolcmafcblbaonlka))
+![](https://chromewebstore.google.com/detail/yandex-music-control/bhcfibiihpkamomgolcmafcblbaonlka)
 
 ## Project Overview:
 
